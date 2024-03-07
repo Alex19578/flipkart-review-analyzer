@@ -32,7 +32,7 @@ This application fetches top reviews of a product from Flipkart, categorizes the
 4. Access the application in your web browser by navigating to `http://localhost:5000`.
 
 ## Folder Structure
-
+```
 home
 ├── static/ # Contains static files such as images and CSS
 │ └── 5.jpg # Background image
@@ -41,7 +41,7 @@ home
 ├── app.py # Main Flask application file
 ├── requirements.txt # List of required Python dependencies
 └── README.md # Documentation and project overview
-
+```
 ## Contributors
 
 - [Alex19578](https://github.com/Alex19578) - Role
