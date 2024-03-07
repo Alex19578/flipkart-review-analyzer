@@ -44,4 +44,4 @@ home
 ```
 ## Contributors
 
-- [Alex19578](https://github.com/Alex19578) - Role
+- [Alex19578](https://github.com/Alex19578)
