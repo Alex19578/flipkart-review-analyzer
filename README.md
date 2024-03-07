@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Review Sentiments Web Application is designed to help users make informed purchasing decisions by analyzing and displaying product reviews from Flipkart. The application categorizes reviews as positive or negative based on sentiment analysis and presents them in an easy-to-understand format.
+This application fetches top reviews of a product from Flipkart, categorizes them as positive or negative using sentiment analysis, and displays them along with relevant information such as product name, price, and overall sentiment ratio. The application provides visual indicators for positive and negative reviews and allows users to view the reviews in detail.
 
 ## Features
 
