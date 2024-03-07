@@ -11,7 +11,6 @@ Features
     Allows users to view detailed reviews
     Includes a plot or graphical representation of review sentiments
     Responsive design using Bootstrap
-    Icons provided by FontAwesome
 
 Technologies Used
 
@@ -32,7 +31,7 @@ Usage
 
 Folder Structure
 
-php
+home
 
 ├── static/             # Contains static files such as images and CSS
 │   └── 5.jpg           # Background image
@@ -43,14 +42,4 @@ php
 └── README.md            # Documentation and project overview
 
 Contributors
-
-    Your Name - Role
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgements
-
-    Special thanks to Flipkart for providing the product review data.
-    Icons provided by FontAwesome.
-    Background image sourced from Unsplash.
+    Alex19578
